@@ -24,7 +24,7 @@
 
         <uses-library android:name="com.google.android.things"/>
 
-        <activity android:name="br.com.diegoferreiracaetano.sample.output.OutputActivity">
+        <activity android:name="br.com.diegoferreiracaetano.sample.output.br.com.autodoc.sample.output.OutputActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

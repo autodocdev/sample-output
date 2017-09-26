@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package br.com.diegoferreiracaetano.sample.output;
+package br.com.autodoc.sample.output;
 
 import android.app.Activity;
 import android.os.Bundle;

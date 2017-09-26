@@ -1,4 +1,4 @@
-package br.com.diegoferreiracaetano.sample.output;
+package br.com.autodoc.sample.output;
 
 
 import android.os.Build;
