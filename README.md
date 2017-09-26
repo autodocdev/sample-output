@@ -27,7 +27,7 @@ If you prefer to run on the command line, type
 
 ```bash
 ./gradlew installDebug
-adb shell am start br.com.diegoferreiracaetano.sample.output/.OutputActivity
+adb shell am start br.com.autodoc.sample.output/.OutputActivity
 ```
 
 License

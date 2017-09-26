@@ -25,7 +25,8 @@ import android.view.KeyEvent;
 
 import java.io.IOException;
 
-import br.com.diegoferreiracaetano.output.OutputDriver;
+import br.com.autodoc.output.OutputDriver;
+
 
 /**
  * Skeleton of the main Android Things activity. Implement your device's logic
